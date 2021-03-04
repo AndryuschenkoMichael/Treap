@@ -1,0 +1,16 @@
+C:\Users\Misha\RiderProjects\Treap\Treap\bin\Debug\netcoreapp5.0\Treap.exe
+C:\Users\Misha\RiderProjects\Treap\Treap\bin\Debug\netcoreapp5.0\Treap.deps.json
+C:\Users\Misha\RiderProjects\Treap\Treap\bin\Debug\netcoreapp5.0\Treap.runtimeconfig.json
+C:\Users\Misha\RiderProjects\Treap\Treap\bin\Debug\netcoreapp5.0\Treap.runtimeconfig.dev.json
+C:\Users\Misha\RiderProjects\Treap\Treap\bin\Debug\netcoreapp5.0\Treap.dll
+C:\Users\Misha\RiderProjects\Treap\Treap\bin\Debug\netcoreapp5.0\ref\Treap.dll
+C:\Users\Misha\RiderProjects\Treap\Treap\bin\Debug\netcoreapp5.0\Treap.pdb
+C:\Users\Misha\RiderProjects\Treap\Treap\obj\Debug\netcoreapp5.0\Treap.csprojAssemblyReference.cache
+C:\Users\Misha\RiderProjects\Treap\Treap\obj\Debug\netcoreapp5.0\Treap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Misha\RiderProjects\Treap\Treap\obj\Debug\netcoreapp5.0\Treap.AssemblyInfoInputs.cache
+C:\Users\Misha\RiderProjects\Treap\Treap\obj\Debug\netcoreapp5.0\Treap.AssemblyInfo.cs
+C:\Users\Misha\RiderProjects\Treap\Treap\obj\Debug\netcoreapp5.0\Treap.csproj.CoreCompileInputs.cache
+C:\Users\Misha\RiderProjects\Treap\Treap\obj\Debug\netcoreapp5.0\Treap.dll
+C:\Users\Misha\RiderProjects\Treap\Treap\obj\Debug\netcoreapp5.0\ref\Treap.dll
+C:\Users\Misha\RiderProjects\Treap\Treap\obj\Debug\netcoreapp5.0\Treap.pdb
+C:\Users\Misha\RiderProjects\Treap\Treap\obj\Debug\netcoreapp5.0\Treap.genruntimeconfig.cache
